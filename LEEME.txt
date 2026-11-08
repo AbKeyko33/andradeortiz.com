@@ -1,0 +1,25 @@
+ANDRADEORTIZ.COM — PLATAFORMA DE ANÁLISIS CRIMINOLÓGICO
+
+ARCHIVOS PRINCIPALES
+index.html: portada, resumen de la web y miniartículos de Derecho penal.
+criminologia.html: definición, divisiones y relación con Derecho penal.
+submaterias.html: conceptos de las principales submaterias.
+perfil.html: perfil biográfico redactado a partir del CV, sin publicar el CV.
+galeria.html: galería con las diez fotografías aportadas.
+empresarial.html: criminología empresarial, utilidad y ámbitos de aplicación.
+publicaciones.html: ficha y descripción de Historia del crimen organizado.
+styles.css y script.js: diseño adaptable y menú móvil.
+assets/: fotografías aportadas por el usuario.
+
+PUBLICACIÓN EN NETLIFY
+1. Descomprime el ZIP.
+2. Abre tu sitio en Netlify.
+3. En Deploys, utiliza el despliegue manual y arrastra la carpeta que contiene index.html.
+4. Comprueba la web y conecta el dominio desde Domain management.
+
+IMPORTANTE
+- No se han modificado DNS ni la configuración del correo.
+- La portada del libro se carga desde andradeortiz.es y requiere conexión a Internet.
+- No se incluye el CV en PDF ni su teléfono.
+- El Máster en Escritura de la Universidad Autónoma de Madrid se ha añadido siguiendo tu indicación; confirma la denominación oficial exacta antes de publicar.
+- Revisa el perfil y los datos académicos antes de poner el sitio en producción.
